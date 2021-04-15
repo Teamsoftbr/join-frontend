@@ -8,8 +8,6 @@ E aí, topa o desafio? Então vem para o DreamTeam, vem para a TeamSoft!
 ## Proposta
 O seu desafio é codificar [esse layout](https://www.figma.com/file/1RWDOOFeh5836Y4KruOl5w/FrontEnd?node-id=0%3A1).
 
-**[IMPORTANTE] Leia os [critérios de avaliação].**
-
 ## Obrigatório
 * HTML e CSS 
 * JS
