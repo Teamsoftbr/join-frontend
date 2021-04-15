@@ -21,14 +21,14 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/1RWDOOFeh583
 * 
 
 ## Critérios de avaliação
-Fidelização de layout, uso correto de CSS com BEM, e Flex (50% do teste)
-Avaliaremos sua lógica de programação com Javascript, seja com react ou não. (25% do teste)
-Organização de código e React (25% do teste)
+* Fidelização de layout, uso correto de CSS com BEM, e Flex (50% do teste)
+* Avaliaremos sua lógica de programação com Javascript, seja com react ou não. (25% do teste)
+* Organização de código e React (25% do teste)
 
 
 ## Entregando o teste
 
-Enviar arquivo **.zip** paras os e-mails abaixo. Não faça pull request para este repositório ou abra uma issue.
+Enviar arquivo **.zip** paras o e-mail abaixo, com o titulo "Desenvolvedor Front-End" e seu nome completo. Não faça pull request para este repositório ou abra uma issue. Este teste é apenas para quem se inscreveu no processo de seleção.
 
 Email:
 _**rh@teamsoft.com.br**_
