@@ -16,7 +16,7 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/1RWDOOFeh583
 
 ## Bonus points
 * [React](https://reactjs.org/)
-* Simulação de API REST, consumindo o endpoint (https://6077803e1ed0ae0017d6aea4.mockapi.io/test-frontend/products)
+* Simulação de API REST, consumindo o [endpoint](https://6077803e1ed0ae0017d6aea4.mockapi.io/test-frontend/products)
 * Responsividade
 * 
 
