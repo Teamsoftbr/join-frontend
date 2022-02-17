@@ -27,10 +27,9 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/1RWDOOFeh583
 
 ## Entregando o teste
 
-Suba o arquivo .zip do projeto no drive ou similar, e envie o link para e-mail abaixo, com o titulo "Desenvolvedor Front-End" e seu nome completo. Não faça pull request para este repositório ou abra uma issue. Este teste é apenas para quem se inscreveu no processo de seleção.
+Suba seu projeto no github de forma pública e envie o link no formulário abaixo com seus dados.Este teste é apenas para quem se inscreveu no processo de seleção.
 
-Email:
-_**rh@teamsoft.com.br**_
+https://forms.gle/np3R4UYxScMEpA3n9
 
 ---
 
