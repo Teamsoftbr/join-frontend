@@ -20,7 +20,7 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/1RWDOOFeh583
 * Responsividade
 
 ## Critérios de avaliação
-* Fidelização de layout, uso correto de CSS com BEM, e Flex (50% do teste)
+* Fidelização de layout, uso correto de CSS com BEM, styled componentes ou da sua preferencia, e Flex (50% do teste)
 * Avaliaremos sua lógica de programação com Javascript, seja com react ou não. (25% do teste)
 * Organização de código e React (25% do teste)
 
